@@ -44,7 +44,9 @@ After running the script, the folder will be structured like this:
 
 This project is free to use and modify.
 
+# Contributing
 
+Feel free to submit a pull request or open an issue if you have any suggestions or improvements!
 
 
 
